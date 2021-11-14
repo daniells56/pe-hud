@@ -1,0 +1,39 @@
+<meta>
+
+
+     <script src="config/config_cl.lua" type="client" cache="false" />
+    <script src="client/hud_cl.lua" type="client" cache="false" />
+
+   
+
+    <file src="html/css/square.css" />
+    <file src="html/css/style.css" />
+    <file src="html/css/wheelcolorpicker.css" />
+    <file src="html/css/wheelcolorpicker.dark.css" />
+
+    <file src="html/fonts/KumbhSans-Bold.ttf" />
+    <file src="html/fonts/KumbhSans-Regular.ttf" />
+    <file src="html/jquery/jquery-1.12.4.js" />
+    <file src="html/jquery/jquery-ui.js" />
+    
+    <file src="html/img/armor.png" />
+    <file src="html/img/cinematic.png" />
+    <file src="html/img/cross.png" />
+    <file src="html/img/health.png" />
+    <file src="html/img/hunger.png" />
+    <file src="html/img/id.png" />
+    <file src="html/img/map.png" />
+    <file src="html/img/microphone.png" />
+    <file src="html/img/oxygen.png" />
+    <file src="html/img/reset.png" />
+    <file src="html/img/stamina.png" />
+    <file src="html/img/stress.png" />
+    <file src="html/img/thirst.png" />
+    <file src="html/img/time.png" />
+
+    <file src="html/js/config.js" />
+    <file src="html/js/jquery.wheelcolorpicker.js" />
+    <file src="html/js/script.js" />
+    <file src="html/ui.html" />
+
+</meta>
